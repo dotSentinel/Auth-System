@@ -20,7 +20,7 @@ This Java application performs hardware ID (HWID) verification to ensure that on
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/hwid-verification-app.git
+   git clone https://github.com/dotSentinel/Auth-System.git
    cd JavaAuthSystem
    ```
 
